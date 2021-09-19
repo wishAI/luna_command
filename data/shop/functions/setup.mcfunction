@@ -1,0 +1,1 @@
+scoreboard objectives add luna_coin dummy

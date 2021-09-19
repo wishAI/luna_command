@@ -1,0 +1,1 @@
+tellraw @p [{"text":"账户余额: ", "bold":"true", "color":"green"}, {"score":{"name":"@p", "objective":"luna_coin"}}]
