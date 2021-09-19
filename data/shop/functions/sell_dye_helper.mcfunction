@@ -1,0 +1,16 @@
+execute if block ~ ~1 ~ minecraft:white_wool run give @p minecraft:white_dye 64
+execute if block ~ ~1 ~ minecraft:orange_wool run give @p minecraft:orange_dye 64
+execute if block ~ ~1 ~ minecraft:magenta_wool run give @p minecraft:magenta_dye 64
+execute if block ~ ~1 ~ minecraft:light_blue_wool run give @p minecraft:light_blue_dye 64
+execute if block ~ ~1 ~ minecraft:yellow_wool run give @p minecraft:yellow_dye 64
+execute if block ~ ~1 ~ minecraft:lime_wool run give @p minecraft:lime_dye 64
+execute if block ~ ~1 ~ minecraft:pink_wool run give @p minecraft:pink_dye 64
+execute if block ~ ~1 ~ minecraft:gray_wool run give @p minecraft:gray_dye 64
+execute if block ~ ~1 ~ minecraft:light_gray_wool run give @p minecraft:light_gray_dye 64
+execute if block ~ ~1 ~ minecraft:cyan_wool run give @p minecraft:cyan_dye 64
+execute if block ~ ~1 ~ minecraft:purple_wool run give @p minecraft:purple_dye 64
+execute if block ~ ~1 ~ minecraft:blue_wool run give @p minecraft:blue_dye 64
+execute if block ~ ~1 ~ minecraft:brown_wool run give @p minecraft:brown_dye 64
+execute if block ~ ~1 ~ minecraft:green_wool run give @p minecraft:green_dye 64
+execute if block ~ ~1 ~ minecraft:red_wool run give @p minecraft:red_dye 64
+execute if block ~ ~1 ~ minecraft:black_wool run give @p minecraft:black_dye 64
