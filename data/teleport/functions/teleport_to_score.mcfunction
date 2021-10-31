@@ -1,7 +1,5 @@
 execute in minecraft:overworld run teleport @s 0 0 0
 
-tellraw @s ["",{"text":"","color":"green","extra":["Teleporting to Home #",{"score":{"name":"@s","objective":"home"}}," (",{"selector":"@e[type=area_effect_cloud,tag=home_itsme,limit=1]"},")"]}]
-
 # X positive
 
 

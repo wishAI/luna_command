@@ -1,7 +1,7 @@
 {
     "values":
 	[
-        "shop:setup",
+		"shop:setup",
 		"teleport:setup"
 	]
 }
