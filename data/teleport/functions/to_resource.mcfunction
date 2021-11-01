@@ -1,1 +1,1 @@
-execute in minecraft:custom/resource run tp @e[distance=..1,dz=6] ~ ~ ~
+execute as @e[type=!armor_stand,distance=..3] in minecraft:custom/resource run tp @s ~ ~ ~
