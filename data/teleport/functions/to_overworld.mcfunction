@@ -1,0 +1,1 @@
+execute in minecraft:overworld run tp @e[distance=..1,dz=6] ~ ~ ~

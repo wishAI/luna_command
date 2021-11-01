@@ -1,0 +1,1 @@
+execute in minecraft:custom/resource run tp @e[distance=..1,dz=6] ~ ~ ~
