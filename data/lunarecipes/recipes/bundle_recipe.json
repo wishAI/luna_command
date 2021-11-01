@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "c c",
+        "RRR"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "R": {
+            "item": "minecraft:rabbit_hide"
+        }
+    },
+    "result": {
+        "item": "minecraft:bundle",
+        "count": 1
+    }
+}
