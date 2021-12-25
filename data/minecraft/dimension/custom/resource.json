@@ -6,7 +6,8 @@
     "settings": "minecraft:overworld",
     "biome_source": {
       "seed": 174872613,
-      "type": "minecraft:fixed"
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
     }
   }
 }
